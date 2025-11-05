@@ -44,14 +44,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Shreyaan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Shreyaan&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/shreyaan-bhat-5a49962a3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -63,10 +55,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyCodezz/ShreyCodezz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyCodezz/ShreyCodezz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyCodezz/ShreyCodezz/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyCodezz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1&custom_title=stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyCodezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
 
 ###
