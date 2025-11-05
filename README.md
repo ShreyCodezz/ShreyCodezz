@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">I love exploring technology and building cool projects using different programming languages like Python, Rust, and front-end tools. I enjoy working with Linux, experimenting with networking, and trying out new ideas that help me grow as a developer. Right now, I’m learning Machine Learning and Data Structures & Algorithms to sharpen my problem-solving skills. I’m always curious to learn more, create something meaningful, and keep improving my craft. Feel free to check out my projects!</p>
+<img align="right" height="200" src="https://i.pinimg.com/736x/47/1e/ae/471eaeebdaeda34891bf94f798c6e4f8.jpg"  />
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/47/1e/ae/471eaeebdaeda34891bf94f798c6e4f8.jpg"  />
+<p align="left">I love exploring technology and building cool projects using different programming languages like Python, Rust, and front-end tools. I enjoy working with Linux, experimenting with networking, and trying out new ideas that help me grow as a developer. Right now, I’m learning Machine Learning and Data Structures & Algorithms to sharpen my problem-solving skills. I’m always curious to learn more, create something meaningful, and keep improving my craft. Feel free to check out my projects!</p>
 
 ###
 
