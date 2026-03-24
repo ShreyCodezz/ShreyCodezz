@@ -27,5 +27,6 @@ I like building useful projects, learning how systems work, and improving both m
 ## Connect
 
 - **GitHub:** [ShreyCodezz](https://github.com/ShreyCodezz)
+- **X:** [Shreyλλn](https://x.com/mrshrey609)
 
 ###
