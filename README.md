@@ -1,32 +1,35 @@
 # Shreyaan Bhat
-Student developer from India  
-Interested in software, AI, Linux, and Machine Learning
+
+**Economics · Mathematics · Computing**
+
+Student at **IISER Bhopal**, exploring the intersection of mathematics, economics, statistics, and software.
 
 ## About Me
 
-I like building useful projects, learning how systems work, and improving both my technical and problem-solving skills. My interests include software engineering, machine learning, networking, Linux, and tools that are thoughtful and functional.
+I'm currently building my foundations in:
 
-## Tech Stack
+- Mathematics and Linear Algebra
+- Statistics and Machine Learning
+- Python and Scientific Computing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,rust,react,linux,git,github" />
-</p>
+## Currently
+- i am learning linear algebra (book) by gilbert strang
+- building small projects
+- trying to stay consistent
 
-## Environment
+## Loadout
 
-- Arch Linux user
-- Interested in systems, customization, and efficient developer workflows
+- editor: vscode, neovim
+- os: arch linux+windows
+- languages: python, c++ , sql
+- interests: ai, ml, maths
 
-## Currently Exploring
-
-- Data Structures and Algorithms
-- Machine Learning
-- AI-focused software
-- Linux and systems-related tools
-
-## Connect
+## links
 
 - **GitHub:** [ShreyCodezz](https://github.com/ShreyCodezz)
-- **X:** [Shreyλλn](https://x.com/mrshrey609)
+- **X:** [Shreyaan](https://x.com/mrshrey609)
+- **Check this out** [whoami](https://shreycodezz.github.io/my_website/)
 
-###
+---
+
+*More experiments, projects, and notes coming as I learn.*
