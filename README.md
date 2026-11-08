@@ -13,7 +13,7 @@ I'm currently building my foundations in:
 - Python and Scientific Computing
 
 ## Currently
-- i am learning linear algebra (book) by gilbert strang
+- i am learning mathematics for ML
 - building small projects
 - trying to stay consistent
 
@@ -21,8 +21,9 @@ I'm currently building my foundations in:
 
 - editor: vscode, neovim
 - os: arch linux+windows
-- languages: python, c++ , sql
+- languages: python, c, c++, sql
 - interests: ai, ml, maths
+- ai: google gemini, codex
 
 ## links
 
