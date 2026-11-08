@@ -28,7 +28,7 @@ I'm currently building my foundations in:
 
 - **GitHub:** [ShreyCodezz](https://github.com/ShreyCodezz)
 - **X:** [Shreyaan](https://x.com/mrshrey609)
-- **Check this out** [whoami](https://shreycodezz.github.io/my_website/)
+- **Check this out** [whoami](https://shreycodezz.github.io)
 
 ---
 
